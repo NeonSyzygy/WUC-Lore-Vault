@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Drafts/Daz Vs Tane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Daz Vs Tane"
             }
           }
         ],
@@ -196,8 +196,14 @@
   },
   "active": "ae5c048014369c48",
   "lastOpenFiles": [
-    "Keywords/Magic/Magic System.md",
+    "Drafts/An Offer You Can't Refuse.md",
+    "Drafts/Daz Vs Tane.md",
     "Keywords/Magic/Magic.md",
+    "/Random Ideas/Name Ideas.md",
+    "/Random Ideas",
+    "Keywords/Magic/Magical Branch.md",
+    "index.md",
+    "Keywords/Magic/Magic System.md",
     "Characters/Aeolus/Wake Up Crew/Tane Altes.md",
     "Locations/Geography/That Floating Mountain.md",
     "Objects/Magic Artifacts/Rena's Amulet.md",
@@ -210,7 +216,6 @@
     "Random Ideas/Name Ideas.md",
     "Keywords/Magic/Aura.md",
     "Events/Pre-History/The Age of Primordials.md",
-    "Drafts/An Offer You Can't Refuse.md",
     "Culture/DDCMTGTCG/Cards/Hero/Jawaku (card).md",
     "Keywords/Aeolia/Tower Relay System/Tower.md",
     "Keywords/Thought Bomb.md",
@@ -218,10 +223,6 @@
     "Keywords/Beings/Great Wyrm.md",
     "Keywords/Great Spirit.md",
     "Culture/DDCMTGTCG/Cards/Skill/You'll Have To Go Through Me.md",
-    "Keywords/Keyword List.md",
-    "Keywords/Magic/Types of Magic/Augmentation.md",
-    "Culture/DDCMTGTCG/DDC Version of MTG Concept.md",
-    "Keywords/Mage.md",
     "Unsorted",
     "Team-ups and fighting moves",
     "Objects/Magic Artifacts",
@@ -231,7 +232,6 @@
     "Locations/Nations & Kingdoms",
     "Locations/Geography",
     "Locations",
-    "/Events/Pre-History",
     "/Events/Full-Timeline.canvas",
     "Events/Full-Timeline.canvas",
     "assets/DDC_Vault_Timeline.drawio.svg",
