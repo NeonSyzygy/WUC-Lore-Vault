@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Ideas/Name Ideas.md",
+                "file": "Keywords/Magic/Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Name Ideas"
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "8210946dc09d7ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Pre-History/The Age of Primordials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Age of Primordials"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Keywords/Magic/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Magic"
             }
           },
           {
@@ -181,10 +195,24 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "f2b8b589ecf4a259",
+  "active": "7292aedfd65d4567",
   "lastOpenFiles": [
-    "Keywords/Magic/Magic System.md",
+    "Events/Pre-History/The Age of Primordials.md",
+    "Keywords/Magic/Magic.md",
+    "Drafts/The Age of Primordials.md",
+    "Random Ideas/Name Ideas.md",
+    "Locations/The Planet.md",
+    "Locations/Cities and Towns/Sev’reon.md",
+    "Locations/Pernicion.md",
+    "Keywords/Magic/Super Sayin Transformation.md",
+    "Keywords/Magic/Magical Branch.md",
+    "Keywords/Magic/Magic System (Old).md",
     "index.md",
+    "Keywords/Magic/index.md",
+    "Locations/Sev’reon Magic School.md",
+    "Locations/Dimensional Planes/index.md",
+    "Locations/Dimensional Planes",
+    "Unsorted/Untitled",
     "Keywords/Keyword List.md",
     "Characters/Character List.md",
     "Characters/Unaligned/June.md",
@@ -198,27 +226,13 @@
     "Locations/Geography/Swalescape.md",
     "Locations/Geography",
     "Locations/Cities and Towns/Small Village.md",
-    "Locations/Cities and Towns/Sev’reon.md",
     "Locations/Cities and Towns/Aeolus.md",
     "Locations/Cities and Towns",
-    "Locations/Veritas Inventa.md",
-    "Locations/Underdark.md",
-    "Locations/The Planet.md",
-    "Locations/Sev’reon Magic School.md",
     "Locations",
-    "Characters/Dragons/Capitalism Wyrm.md",
-    "Events/Pre-History/The Age of Primordials.md",
-    "Great Spirits/Spirit of death.md",
-    "Great Spirits/Spirit Aspects List.md",
     "Great Spirits",
-    "Culture/DDCMTGTCG/Deck Lists/WUC Testing.md",
-    "Culture/DDCMTGTCG/Deck Lists/For Daz.md",
     "Culture/DDCMTGTCG/Deck Lists",
-    "Culture/DDCMTGTCG/Cards/Tool/Three Section Staff (card).md",
     "Culture/DDCMTGTCG/Cards/Tool",
     "Culture/DDCMTGTCG/Cards/Skill",
-    "Culture/DDCMTGTCG/Cards/Location",
-    "Culture/DDCMTGTCG/Cards/Hero",
     "Events/Full-Timeline.canvas",
     "Events/Timeline (Canvas).canvas",
     "Events/Full_Timeline.canvas",
