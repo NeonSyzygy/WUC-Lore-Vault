@@ -1,1 +1,0 @@
-This is a temporary name for the planet DDC takes place on.

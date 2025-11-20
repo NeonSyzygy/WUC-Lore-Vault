@@ -1,1 +1,0 @@
-A crystal battery made of [[Orichalcum]] that stores aura.
