@@ -10,20 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Checkout DDC-Canon repo
+      - name: Checkout WUC-Canon repo
         uses: actions/checkout@v3
         with:
-          repository: Day-Dream-Company/DDC-Canon
-          token: ${{ secrets.DDC_CANON_ACTIONS }}
+          repository: NeonSyzygy/WUC-Canon
+          token: ${{ secrets.WUC_VAULT_ACTIONS }}
           ref: main
           path: canon
 
       - name: Update submodule pointer
         run: |
           cd canon
-          git config user.name "DDC-Canon Actions"
-          git config user.email "bot@daydream.company"
-          git config --global url."https://x-access-token:${{ secrets.DDC_CANON_ACTIONS }}@github.com/".insteadOf "https://github.com/"
+          git config user.name "WUC_VAULT_ACTIONS"
+          git config user.email "bot@NeonSyzygy.company"
+          git config --global url."https://x-access-token:${{ secrets.WUC_VAULT_ACTIONS }}@github.com/".insteadOf "https://github.com/"
           
           git submodule update --init --recursive
           cd source/content-submodule
