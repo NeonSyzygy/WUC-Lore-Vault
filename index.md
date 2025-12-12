@@ -32,5 +32,19 @@ The quadrants were:
 
 Initially the rules was that no character could have access to more than 2 quadrants. Over time this rule softened and shifted so that it were possible to learn effects from more than 2, but that any time spent mastering one meant that you will not be as proficient in another. Then, it changed again to be that there are virtually no restriction on what effects can be learned, but that instead the restriction prevents you from having more than 2 types of magic *active* at once.
 
-The nature of the idea itself is constantly in flux in the first place, and I contributed to the idea at every stage beyond it's very first form. I plan to utilize the idea of *some kind* of division between types of magic, and to include *some kind* of mechanical restriction on which/how many kinds a single person can use, but I intend to modify the names, the nature, and potentially the number or "quadrants."
+The nature of the idea itself is constantly in flux in the first place, and I contributed to the idea at every stage other than it's very first form. I plan to utilize the idea of *some kind* of division between types of magic, and to include *some kind* of mechanical restriction on which/how many kinds a single person can use, but I intend to modify the names, the nature, and potentially the number or "quadrants."
 ## Original Ideas
+### [[Metal Glass]], or Dragon Glass
+This is an original idea of mine that partially predates my involvement with [[DDC]] at all. The main two distinctive features of [[Metal Glass]] glass are:
+1. That it is a material that experiences a “phase change” between metallic and crystalline forms when its metal form is heated beyond a certain point.
+2. Looking through its crystal form reveals hidden or invisible magical things.
+
+It is possible that the phase transition is something I came up with while working on [[DDC]], but even if that is true I am confident this is entirely my creation.
+
+It’s also worth mentioning that the origin of the name “Dragon Glass” comes from the idea that if you find [[Metal Glass]] in its crystal form, then it’s likely that a Dragon has made its home there, because the heat of a Dragon’s flame breath can cause the naturally forming metal form to phase shift. Also, dragons probably like it because it’s more magically attuned as a material.
+### [[Aeolus]] and the [[Pre-Aeolus]] Nation, the [[Anti-Magic Weapon]], the [[Great Disaster]], and the [[Dark Aura]]
+All of these related concepts are missing final names. They will be updated as I refine what to call them, but conceptually I do not expect them to change much.
+
+The [[Great Disaster]] is a specific narrative event that befalls the highly magical [[Pre-Aeolus]] nation, plunging it into a dark age without magic in an otherwise magical world. The [[Anti-Magic Weapon]] is a magical invention derived from [[Dark Aura]], and its magic annihilating/consuming effect is propagated along the towers that form a magical power delivery network in the nation. The [[Dark Aura]] refers to the magic of the [[First Primordial]], as well as to the malignant effects experienced by someone who is infected or corrupted by it. The results of the [[Great Disaster]] are that the entire nation is destroyed in an instant, all magical people in the disaster are basically vaporized, the surrounding landscape is made intrinsically inhospitable to the existence of magic due to some kind of anti-magic fallout, and the generations of people who survive the event are all non-magical, for many generations afterward.
+
+At its core none of these elements are particularly unique. They are inspired by both real life events and by other works of fiction. What is unique is this particular *arrangement* of concepts which would not be applicable to another setting. The nature of the event is closely linked to the function of the [[Pre-Aeolus]] nation’s network, and the results go on to shape the nature of [[Aeolus]] as a nation afterwards in ways I do not think are common. I believed that this arrangement of elements is unique and I maintain that they are a creation of mine alone.

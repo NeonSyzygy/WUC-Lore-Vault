@@ -1,4 +1,4 @@
-- [[Aeolus]] receives a signal from the tower network about an emergency
+- [[Keywords/Aeolia/Aeolus]] receives a signal from the tower network about an emergency
 - [[Rena]] responds and goes to the signal room, finds [[Tane Altes]] already there.
 - Brief discussion, then [[Tane Altes]] initiates a mirror comunixation between the capital and the source tower.
 - Information unknown, [[Tane Altes]] and [[Rena]] decided to respond instantly and teleport through the portal to the closest beacon city.

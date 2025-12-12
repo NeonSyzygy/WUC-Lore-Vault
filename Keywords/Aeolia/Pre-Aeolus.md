@@ -1,0 +1,1 @@
+The nation that stood before the [[Great Disaster]].
