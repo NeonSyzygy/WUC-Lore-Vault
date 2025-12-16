@@ -1,4 +1,4 @@
-# [[Aeolus]]
+# [[Keywords/Aeolia/Aeolus]]
 ## [[WUC]]
 - [[Artis]]
 - [[Kuno]]
