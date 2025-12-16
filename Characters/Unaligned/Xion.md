@@ -1,1 +1,0 @@
-One of Daz's characters, and a member of [[Valen Elicron]]'s second adventuring group.

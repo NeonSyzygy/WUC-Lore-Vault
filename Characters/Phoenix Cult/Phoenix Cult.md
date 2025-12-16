@@ -1,1 +1,0 @@
-The old republic jedi style religion who serves [[Tanele]] and facilitates his reincarnation.

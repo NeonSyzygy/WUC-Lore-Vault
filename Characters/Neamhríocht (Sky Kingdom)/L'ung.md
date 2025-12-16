@@ -1,1 +1,0 @@
-An eastern dragon styled dragonborn. A member of [[Tobi]]'s landing party.
