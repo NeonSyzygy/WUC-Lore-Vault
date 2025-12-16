@@ -1,0 +1,1 @@
+This is a Mage College that [[Sev’erna]], [[Aster Kenos]], and [[Akela Kalani]] went to. [[Lyssa Vrendel]] is a member of the faculty.
