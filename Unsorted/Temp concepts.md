@@ -1,0 +1,5 @@
+- Humans are the oldest, elves are a “modern” product of magical bioengineering.
+- The herald caused the disaster and was present for it way back then.
+- The old towers were indeed for transferring magic power, but what they *actuslly did* was siphon power *from* the outer cities, keeping the general citizens from being magic and funneling all that power to the emperor or whatever.
+- The herald caused the disaster in an attempt to *avoid* that same disaster as he saw in a vision, thinking that if he were the one to do it that he could limit its destruction, but someone relights the beacon out from under him (possibly an agent of another nation)
+- The herald causes the disaster with intent to save the lower citizens, but when he accidentally destroys them he realizes that humanity cannot be saved. It is kinder to have never lived than to suffer and uptimately be destroyed by evil that can never be stopped, so he vows to accelerate the end of life.
