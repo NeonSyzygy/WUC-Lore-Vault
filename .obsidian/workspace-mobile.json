@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/Magic/Dynamic.md",
+                "file": "Keywords/Beings/Monsters and Creatures/Algae Snake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic"
+              "title": "Algae Snake"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "3761985ee826f67c",
   "lastOpenFiles": [
+    "Keywords/Magic/Dynamic.md",
+    "Keywords/Beings/Monsters and Creatures/Algae Snake.md",
     "Unsorted/Temp concepts.md",
     "index.md",
     "Locations/Magic School.md",
@@ -216,8 +218,6 @@
     "Great Spirits/Spirit Aspects List.md",
     "Great Spirits/Spirit of death.md",
     "Culture/DDCMTGTCG/Cards/Hero/Tobi (card).md",
-    "Culture/DDCMTGTCG/Cards/Hero/Akela (Card).md",
-    "Culture/DDCMTGTCG/Cards/Hero/Avon (card).md",
     "Events/Full-Timeline.canvas"
   ]
 }
