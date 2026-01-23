@@ -13,4 +13,8 @@ On the other, [[Kuno]] will have gone to the same place she and [[Valen Elicron]
 
 ## [[Rena]]’s Stance
 I think I’m imagining [[Rena]] starting with the Archer’s Guard (shown in [this video](https://youtu.be/ibWNxM9Q7Ro?si=DophfoYtn0Wr5Q6h)). The
-Is guard more definitely uses 2 hands though, and I’m not sure how hard I want her to vomit to using a one handed strategy. It kinda doesn’t make a lot of sense to use one hand without a good reason, and you can always let go with one if you need to.
+Is guard more definitely uses 2 hands though, and I’m not sure how hard I want her to commit to using a one handed strategy. It kinda doesn’t make a lot of sense to use one hand without a good reason, and you can always let go with one if you need to.
+# An evolution of the amulet test
+The plan has always been for kuno to win, the amulet saves Rena, kuno sees what happened and grabs the amulet hoping to get it to draw out her own aura by force, but it doesn’t work and she just cuts herself or something. Then she drops the sword and gives up, utterly defeated and hopeless that she will never be magical again.
+
+I had a thought recently that Reba might respond to this failure by sort of trying to combine their aura, or to sort of share the channeling load, and that it *kinda works,* at least enough to give kuno hope. Then Tane comes in and basically says we can help you, helping mages develop their powers is what they do.
