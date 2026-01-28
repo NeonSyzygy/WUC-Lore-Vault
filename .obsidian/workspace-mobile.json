@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/Recruiting Kuno.md",
+                "file": "Keywords/Aeolia/Axioms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recruiting Kuno"
+              "title": "Axioms"
             }
           }
         ]
@@ -182,7 +182,17 @@
   "active": "3761985ee826f67c",
   "lastOpenFiles": [
     "Drafts/Tame and Archer speak to the Manifold about Magic Weapons.md",
+    "/Keywords/Beings/Monsters and Creatures/Algae Snake.md",
     "Keywords/Beings/Monsters and Creatures/Algae Snake.md",
+    "/Keywords/Beings/Monsters and Creatures",
+    "/Keywords/Beings",
+    "/Keywords",
+    "/Drafts/Tame and Archer speak to the Manifold about Magic Weapons.md",
+    "/Drafts/Recruiting Kuno.md",
+    "/Drafts",
+    "Locations/Nations & Kingdoms/Aeolia.md",
+    "Keywords/Aeolia/Axioms.md",
+    "Locations/Cities and Towns/Aeolus.md",
     "Keywords/Magic/Dynamic.md",
     "Unsorted/Temp concepts.md",
     "index.md",
@@ -196,7 +206,6 @@
     "/Locations/Magic School.md",
     "/Keywords/Beings/Society/Humanoid.md",
     "/Keywords/Beings/Society",
-    "/Keywords/Beings",
     "/Events/Full-Timeline.canvas",
     "/Events/Dark Aura Saga/Weltzer’s Campaign.md",
     "/Events/Dark Aura Saga",
@@ -205,19 +214,10 @@
     "/Team-ups and fighting moves",
     "/Objects",
     "/Locations/Nations & Kingdoms",
-    "/Locations/Geography",
-    "/Locations/Cities and Towns",
-    "/Locations",
     "Drafts/Showstopper.md",
     "Drafts/Off The Books.md",
     "Drafts/Eyes Of A Dragon.md",
-    "Locations/Cities and Towns/Aeolus.md",
     "Keywords/Aeolia/Aeolus.md",
-    "Keywords/Aeolia/Pre-Aeolus.md",
-    "Events/Fall of Pre-Aeolus/Great Disaster.md",
-    "Keywords/Anti-Magic Weapon.md",
-    "Great Spirits/Spirit Aspects List.md",
-    "Great Spirits/Spirit of death.md",
     "Events/Full-Timeline.canvas"
   ]
 }
