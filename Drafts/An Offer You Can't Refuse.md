@@ -215,9 +215,9 @@ The newcomer watches him leave and then turns to Aster. He is wearing a black le
 
 Aster pockets his interface, shakes out his still sore fist, and unconvincingly says with a shaky voice "Yeah... I hope so."
 # Continuations
-# Canon
+## Canon
 (Nothing, yet)
-# Non-Canon
+## Non-Canon
 - [[Daz Vs Tane]]
 # Outline
 [Google Drive Link](https://docs.google.com/document/d/1kPasEJxRYtNhyhV3NFdQsXUJOaRsI9TZTQLG1LsjWqo/edit?tab=t.0)
