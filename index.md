@@ -134,7 +134,7 @@ This is a buisness run by [[Aster Kenos]]. It was originally located in Sev'reon
 Given that characters are complex, and that all of my characters will have actual pages here on the compendium, I will simply list them. Click the links for actual information on the character.
 Some of the characters do not have names, but that will update as I expand on them and find one that fits.
 - [[Rena]]
-- [[Tane Altes]]
+- [[Tane]]
 - [[Kuno]]
 - [[WUC Archer]]
 - [[Artis]]

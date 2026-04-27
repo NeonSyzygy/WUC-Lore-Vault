@@ -3,7 +3,7 @@
 - [[Kuno]]
 - [[Rena]]
 - [[Sebastian]]
-- [[Tane Altes]]
+- [[Tane]]
 - [[WUC Archer]]
 # Kingdom of [[Sev’ren]]
 - [[Aster Kenos]]

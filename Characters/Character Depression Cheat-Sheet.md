@@ -2,7 +2,7 @@
 ## Patrick
 Basically all of my characters are sad, but one of the things that sets them apart significantly is how they respond to depression.
 - [[Rena]]: “I have to be strong for everyone else.”
-- [[Tane Altes]]: “The certainty of logic offers an escape from despair.”
+- [[Tane]]: “The certainty of logic offers an escape from despair.”
 - [[Kuno]]: “Everything goes in waves.”
 - [[WUC Archer]]: “Through self improvement we learn how to avoid failure.”
 - [[Artis]]: “We do what we can, and hope it is enough.”

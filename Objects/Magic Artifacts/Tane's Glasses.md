@@ -1,4 +1,4 @@
-[[Tane Altes]] has an enchanted pair of glasses that accelerates the wearer's cognition so that they perceive the world in slow motion when they want to.
+[[Tane]] has an enchanted pair of glasses that accelerates the wearer's cognition so that they perceive the world in slow motion when they want to.
 
 The glasses are non-corrective lenses made from [[Metal Glass]], and they have an augmentation enchantment imbued into them that accelerates the mental perception of the person wearing them. Wearing these glasses effectively gives you “true sight” and allows you to see the world in slow motion.
 # Creation
@@ -13,4 +13,4 @@ I do not know where the lenses themselves were made, but I am thinking about hav
 - They fight the dragon.
 - They return with the [[Metal Glass]] and [[Rena]] commissions the [[Crystal Sword]].
 
-At some point the glasses are given to [[Tane Altes]], and he keeps them from then on.
+At some point the glasses are given to [[Tane]], and he keeps them from then on.

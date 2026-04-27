@@ -48,19 +48,31 @@ The reflective portal stayed open for a moment after he stepped through. Long en
 
 [[Rena]] just crossed her arms and waited for him to get on with it and explain what he was so excited about.
 
-“Normally I would have waited to talk to you before leaving, but I didn’t want to let this one slip by. I was just in [[small city name]] speaking to someone who claims [[crystal sword]] was seen on the road into the city.”
+“I was just in [[small city name]] doing our standard information gathering. Checking for people with an [[Aura]], keeping an ear open for rumors about [[magic]] artifacts, making sure there's no incidents developing, the usual. Anyway, as I was speaking to one of my normal contacts, they mentioned that an adventurer had passed through town, and that she had been asking around for the whereabouts of a certain local mercenary gang."
+
+"I don't suppose this 'gang' is registered, are they."
+
+"Likely not. Official membership with a recognized [[Fold]] is not nearly as common for people living so far from the capital, but that's not the interesting part. I had my informant show me mental image of the adventurer, and she has it. [[Rena]], she has [[Crystal Sword]]."
 
 Rena’s incredulous demeanor instantly melted with the mention of [[crystal sword]]. “Wait, really?”
 
-“Well, it’s a third-hand account, but yes. 
+“I could show you if you wanted, but you know I wouldn't mistake it. I obviously can't verify its [[Aura]] from a second hand memory, but its not like there are duplicates out there. If there were, we'd have seen some by now."
+
+"Do we know where she's headed?"
+
+"Not exactly, but we know who she's looking for, so if we're quick we can meet here there."
+
+"And we can deal with those mercenaries while we're there."
+
+He smiled and said "Exactly. You know how I enjoy efficiency."
 
 —
 
-Tane watched the two of them fight. He watched from the sideline, one hand held patiently in the other behind his back, as they moved in slow motion. The stranger was steady. Rena was calm as well, of course, but she was also still assessing her opponent. Tane could see Rena’s eyes shifting around, looking for signals that would tell her what the stranger was about to do, and he could see the unconscious micro-adjustments in her sword grip as she considered different possibilities. The stranger did none of that, and instead had her eyes locked firmly on Rena’s.
+[[Tane]] watched the two of them fight. He watched from the sideline, one hand held patiently in the other behind his back, as they moved in slow motion. The stranger was steady. [[Rena]] was calm as well, of course, but she was also still assessing her opponent. [[Tane]] could see [[Rena]]’s eyes shifting around, looking for signals that would tell her what the stranger was about to do, and he could see the unconscious micro-adjustments in her sword grip as she considered different possibilities. The stranger did none of that, and instead had her eyes locked firmly on [[Rena]]’s.
 
-Rena eventually strikes first. A quick stabbing attack meant to provoke a response without putting herself in too much danger just yet. She’s looking for information about her opponent. Before Rena’s arm was fully extended, the stranger was already responding. The two swords collide as the stranger parries the stab to the side, but then she pivots the crystal sword and begins an attack of her own. The swords don’t break contact as she lowers her point down toward Rena and thrusts it forward. Rena’s sword binds in the stranger’s crossguard, and the blades shriek as sharpened crystal and steel slide past each other.
+[[Rena]] eventually strikes first. A quick stabbing attack meant to provoke a response without putting herself in too much danger just yet. She’s looking for information about her opponent. Before [[Rena]]’s arm was fully extended, the stranger was already responding. The two swords collide as the stranger parries the stab to the side, but then she pivots the crystal sword against [[Rena]]'s and begins an attack of her own. The swords don’t break contact as she lowers her point down toward [[Rena]] and thrusts it forward. [[Rena]]’s sword edge binds in the stranger’s crossguard, and the blades shriek as sharpened crystal and steel slide past each other.
 
-Rena rotates her sword as she lifts it, pushing the oncoming blade up and over her shoulder, intending to force the stranger’s sword in an arc over her head to reverse the position, but her leverage is poor. Rena’s sword arm was fully outstretched because she was trying to maintain distance between her and her opponent until she had an idea of how they would fight, but the stranger moved with their entire body when they counterattacked. With both hands on their hilt and much stronger posture, they allowed their sword to be tilted slightly vertically and easily maintained the bind.
+[[Rena]] rotates her sword under her opponent's as she lifts it, pushing the oncoming blade up and over her shoulder, intending to force the stranger’s sword in an arc over her head to reverse the position, but her leverage is poor. [[Rena]]’s sword arm was fully outstretched because she was trying to maintain distance between her and her opponent until she had an idea of how they would fight, but the stranger moved with their entire body when they counterattacked. With both hands on their hilt and much stronger posture, they allowed their sword to be tilted slightly vertically and easily maintained the bind.
 # Summary
 [[Rena]] goes to recover the [[Crystal Sword]] for herself, and meets [[Kuno]] who is it's current owner. They fight over it, and ultimately [[Kuno]] wins, or at least she would have killed [[Rena]] if not for [[Rena's Amulet]]. [[Kuno]] realizes what [[Rena's Amulet]] does, and in a moment of compassion [[Rena]] allows her to try to get it to draw from [[Kuno]]'s [[Aura]]. It doesn't work, and [[Kuno]] looses a significant chunk of resolve, simply giving up the sword. [[Rena]] offers her a place in [[WUC]], hoping that maybe as a group they can figure out a way to help her recover her magic.
 [Docs link:](https://docs.google.com/document/d/1smLVaj7k_BHSnls9QPn7E2WtRxlanmxpHdG1aAXHXjY/edit?tab=t.0)

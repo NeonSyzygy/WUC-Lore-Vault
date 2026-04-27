@@ -36,6 +36,6 @@ In the wake of this disaster, modern [[Aeolia]] is created, with it’s capital 
 # Nation-Wide Communication
 [[Aeolia]] uses a system called the [[TRS]] in order to communicate between light harvesting water [[Tower]]s spread throughout the nation.
 
-As a fortunate quirk, since the [[TRS]] is mirror based, [[Tane Altes]] can also use them to communicate directly with and even transport small groups of people instantaneously between any two [[Tower]]s in the nation. This was discovered after the creation of the [[TRS]], but it enabled [[WUC]] to be an instantaneous response team and was a significant part of the appeal of starting the [[WUC]] project in the first place.
+As a fortunate quirk, since the [[TRS]] is mirror based, [[Tane]] can also use them to communicate directly with and even transport small groups of people instantaneously between any two [[Tower]]s in the nation. This was discovered after the creation of the [[TRS]], but it enabled [[WUC]] to be an instantaneous response team and was a significant part of the appeal of starting the [[WUC]] project in the first place.
 # Miscellaneous
 [This](https://youtube.com/shorts/rc1WEQALcJo?si=bBInbvhK7NHezN1I) is just very cool and fits the vibe lol
