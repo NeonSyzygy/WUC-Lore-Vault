@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Drafts/Recruiting Kuno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Recruiting Kuno"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -183,8 +184,12 @@
   },
   "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
-    "Great Spirits/Spirit Aspects List.md",
+    "Keywords/Aeolia/Tower Relay System/Tower.md",
+    "Drafts/Recruiting Kuno.md",
+    "Locations/Nations & Kingdoms/Aeolia.md",
+    "Characters/Aeolus/Jove.md",
     "index.md",
+    "Great Spirits/Spirit Aspects List.md",
     "Characters/Character List.md",
     "Characters/Character Depression Cheat-Sheet.md",
     "Keywords/Magic/Magic.md",
@@ -205,10 +210,6 @@
     "Objects/Archer's Bow.md",
     "Objects/Black Hole Gun.md",
     "Objects/Rotating Guard Sword.md",
-    "Random Ideas/Intentional Artistic Concessions.md",
-    "Random Ideas/Mechanical Interactions.md",
-    "Random Ideas/Name Ideas.md",
-    "Team-ups and fighting moves/Moment of Eternity.md",
     "Out of Universe",
     "Locations/Dimensional Planes",
     "Unsorted/Untitled",

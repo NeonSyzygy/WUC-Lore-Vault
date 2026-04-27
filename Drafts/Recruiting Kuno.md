@@ -1,3 +1,66 @@
+The metal scissor gate opened before [[Rena]] could reach for the call elevator button. She stepped inside and the floor sank gently under her weight.
+
+“Hey [[Rena]].” Said a cheerful voice. “Going all the way up?”
+
+[[Jove]] was operating the lift today. He spun a crank handle with one hand, pulling the gate closed, and had his other resting on a control valve. A book was sitting open and face down on his lap.
+
+“Yeah, thanks.”
+
+“Alrighty, no problem!”
+
+The floor of the lift rose to be flush with the ground once again, [[Jove]] turned the valve closed, and the sound of flowing water stopped. He pulled another two levers, one after the other, and the elevator lurched as a series of latches and seals disengaged. He picked up his book to resume reading, and at the same time pulled a third lever setting the elevator in motion.
+
+[[Rena]] watched through the mesh of the elevator’s cage as the floors and hallways of the lower [[tower]] eventually gave way to exposed beams and piping, revealing the morning sky in the distance. She looked down and watched the city fall away beneath them, wondering when she would finally feel comfortable with heights. “Not today, apparently,” she thought to herself as she nervously fidgeted with her amulet under her scarf.
+
+[[Jove]] simply read his book, unfazed by the monument to mechanical hubris that lofted them against the command of gravity. The higher they went, the more the distant world rolled in on them. The horizon slowly unfolds, and eventually the faint beacons of other distant towers rise from behind the world, glowing like tiny terrestrial stars. [[Jove]] only occasionally looked away from his reading to check a gauge, and as they approached the top he pulled back gently on the carriage’s throttle. [[Rena]] closed her eyes and gripped the railing. This was her least favorite part. The floor threatened to fall away from her feet as the elevator began to slow down, and her senses irrationally warned her that she was being plunged into freefall.
+
+The unnerving sense of partial weightlessness persisted as the elevator decelerated, but it was at least consistent. [[Jove]] was a good operator. She liked it when [[Jove]] was working, he was smooth on the throttle. The rate of deceleration slowed, [[Rena]]’s stomach began to return to normal, and she heard the metallic clicks of several latches lock as the platform was captured by this floor’s springloaded receiver. She opened her eyes to see Jove already cranking open the gate with one hand while simultaneously throwing a series of levers with the other, preparing the lift for the trip back down.
+
+“Alright, this is you. Off you go.” Said [[Jove]] in his carefree voice.
+
+[[Rena]] put her hand up to wave goodbye and replied “Thanks [[Jove]], I’ll see you later.”
+
+She stepped out of the lift, happy to be back on relatively solid ground. The gate closed behind her, she checked to make sure nothing of hers had gotten caught in the mechanism, and then, satisfied that nothing catastrophic was going to happen, she pushed open the door into the heart of [[Aeolia]]’s communication center.
+
+If the [[tower]] itself was a triumph over the forces of gravity, then the room it supported was just as much a marvel on its own. [[Rena]] stepped out into a massive toroid of steel and glass. Three hundred and sixty degrees of nearly uninterrupted vision through massive curved panels of glass revealed the countryside for hundreds of miles. A half dozen people or so worked here at any given time, watching the horizon as well as looking down on the city below. Tables with maps tracked the defensive logistics of the nation, information was relayed up and down the tower through echoing pipes and cables, it was the nervous center of a sleeping giant.
+
+Then, at the center of it all, surrounding the elevator’s alcove, was the most audacious feat of engineering yet. A huge gyroscopic orrery of sorts dominated the room. Concentric rings in the floor and ceiling, tens of feet across, supported complex arrangements of glass and crystal lenses. Each ring was set on a circular track of rolling bearings, and in the center ring an absolutely massive panel of continuous metal spanned a chord across its circumference. Not just a huge sheet of metal, a pristine silvered mirror, protected behind an equally massive sheet of glass bonded to its surface. The mirror was held in a mechanism that allowed it to tilt up and down, as well as rotate around the elevator.
+
+Generations ago, before [[Aeolia]]’s founding, a civilization had built immense structures to cast [[magic]] to and from cities. Beacons of power, in the exact same place as [[Aeolia]]’s current towers, would have projected a web of energy from one edge of a nation to the other. Ostensibly, it was to distribute and share power where and when it was needed, but in the end, the people turned against one another and it became an albatross around the neck of every city, linking the fate of each to one another.
+
+In the wake of their disaster, they left the world wounded. [[Magic]] itself was poisoned, the [[tower]]s fell, and their society collapsed. And yet, today the [[tower]]s stand. A new culture, mutated from the previous with lessons learned, rose from the rubble and demanded a rematch with fate. They clawed stone and ore from the earth and hammered them into shape. They took fire from the underworld and burned the sea to power their new world, and with that power, they forged a new web. Through science and spite they cast a net that could capture the sun, and then they did it thirty times over. It would have taken hundreds of years, but eventually a small fraction of the sun’s light was choked and redirected back across the shadow of the ancient network. Celestial power held in the hands of common mortals, projected a thousand miles over the curvature of the world in an instant.
+
+ A small blinking light on the horizon, communicating a single encoded word: “Together.”
+
+The history of the [[tower]]s is incredible. It’s inspiring. It represents some of the things people are most proud of their country for. It’s also borderline pathetic when compared to the rest of the world. The impossible feat of human precision held up as part of [[Aeolia]]’s national mythos is less than trivial in any magically developed society. In a world where mages can simply think and accomplish the same exact thing with infinitely greater information density, it’s a wonder that the project wasn’t abandoned due to embarrassment or pessimism.
+
+She barely even got to finish her thought about the indifference of [[Magic]] before she was interrupted and pulled back to reality. The surface of the great mirror shimmered, then rippled and revealed a new scene. A man stood on the other side of the mirror with his hand pressed against the surface. He looked up, made eye contact with [[Rena]], and as if to punctuate her point about [[Magic]], he stepped right through the reflection.
+
+“Oh, you’re here, excellent. Saves me the trouble of having to track you down. I’ve got some exciting news for you.”
+
+The reflective portal stayed open for a moment after he stepped through. Long enough for someone working in the room on the other side to do a double take, but then quickly faded. “We really ought to figure out a way to communicate more efficiently when we are split up,” [[Rena]] said.
+
+“I’ve been thinking about this, actually. I have some potential solutions, but I fear they are beyond my skillset at the moment. If only someone like my sister were around to help, but…” His voice trailed off before finishing, “Well, you know.”
+
+“Something we’ll have to save for another time, then.”
+
+“Yes, exactly, because we have more time-sensitive things to do now.”
+
+[[Rena]] just crossed her arms and waited for him to get on with it and explain what he was so excited about.
+
+“Normally I would have waited to talk to you before leaving, but I didn’t want to let this one slip by. I was just in [[small city name]] speaking to someone who claims [[crystal sword]] was seen on the road into the city.”
+
+Rena’s incredulous demeanor instantly melted with the mention of [[crystal sword]]. “Wait, really?”
+
+“Well, it’s a third-hand account, but yes. 
+
+—
+
+Tane watched the two of them fight. He watched from the sideline, one hand held patiently in the other behind his back, as they moved in slow motion. The stranger was steady. Rena was calm as well, of course, but she was also still assessing her opponent. Tane could see Rena’s eyes shifting around, looking for signals that would tell her what the stranger was about to do, and he could see the unconscious micro-adjustments in her sword grip as she considered different possibilities. The stranger did none of that, and instead had her eyes locked firmly on Rena’s.
+
+Rena eventually strikes first. A quick stabbing attack meant to provoke a response without putting herself in too much danger just yet. She’s looking for information about her opponent. Before Rena’s arm was fully extended, the stranger was already responding. The two swords collide as the stranger parries the stab to the side, but then she pivots the crystal sword and begins an attack of her own. The swords don’t break contact as she lowers her point down toward Rena and thrusts it forward. Rena’s sword binds in the stranger’s crossguard, and the blades shriek as sharpened crystal and steel slide past each other.
+
+Rena rotates her sword as she lifts it, pushing the oncoming blade up and over her shoulder, intending to force the stranger’s sword in an arc over her head to reverse the position, but her leverage is poor. Rena’s sword arm was fully outstretched because she was trying to maintain distance between her and her opponent until she had an idea of how they would fight, but the stranger moved with their entire body when they counterattacked. With both hands on their hilt and much stronger posture, they allowed their sword to be tilted slightly vertically and easily maintained the bind.
 # Summary
 [[Rena]] goes to recover the [[Crystal Sword]] for herself, and meets [[Kuno]] who is it's current owner. They fight over it, and ultimately [[Kuno]] wins, or at least she would have killed [[Rena]] if not for [[Rena's Amulet]]. [[Kuno]] realizes what [[Rena's Amulet]] does, and in a moment of compassion [[Rena]] allows her to try to get it to draw from [[Kuno]]'s [[Aura]]. It doesn't work, and [[Kuno]] looses a significant chunk of resolve, simply giving up the sword. [[Rena]] offers her a place in [[WUC]], hoping that maybe as a group they can figure out a way to help her recover her magic.
 [Docs link:](https://docs.google.com/document/d/1smLVaj7k_BHSnls9QPn7E2WtRxlanmxpHdG1aAXHXjY/edit?tab=t.0)
@@ -17,4 +80,4 @@ Is guard more definitely uses 2 hands though, and I’m not sure how hard I want
 # An evolution of the amulet test
 The plan has always been for kuno to win, the amulet saves Rena, kuno sees what happened and grabs the amulet hoping to get it to draw out her own aura by force, but it doesn’t work and she just cuts herself or something. Then she drops the sword and gives up, utterly defeated and hopeless that she will never be magical again.
 
-I had a thought recently that Reba might respond to this failure by sort of trying to combine their aura, or to sort of share the channeling load, and that it *kinda works,* at least enough to give kuno hope. Then Tane comes in and basically says we can help you, helping mages develop their powers is what they do.
+I had a thought recently that Rena might respond to this failure by sort of trying to combine their aura, or to sort of share the channeling load, and that it *kinda works,* at least enough to give kuno hope. Then Tane comes in and basically says we can help you, helping mages develop their powers is what they do.
