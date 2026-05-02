@@ -66,6 +66,8 @@ Rena’s incredulous demeanor instantly melted with the mention of [[crystal swo
 
 He smiled and said "Exactly. You know how I enjoy efficiency."
 
+(Notes: Change the locations to be that Tane got a tip about Kuno while he was in the nearby Tower City, that she had passed through there days before hand traveling towards a much smaller mor minor village, Tane has a portal location near that village, the portal location is a lake and so they do the trick where they running jump through the glass and up out of the lake, and potentially when they come out of the lake that’s when they see the smoke because Kuno is taking care of business.)
+
 —
 
 [[Tane]] watched the two of them fight. He watched from the sideline, one hand held patiently in the other behind his back, as they moved in slow motion. The stranger was steady. [[Rena]] was calm as well, of course, but she was also still assessing her opponent. [[Tane]] could see [[Rena]]’s eyes shifting around, looking for signals that would tell her what the stranger was about to do, and he could see the unconscious micro-adjustments in her sword grip as she considered different possibilities. The stranger did none of that, and instead had her eyes locked firmly on [[Rena]]’s.
