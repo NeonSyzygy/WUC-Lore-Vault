@@ -1,0 +1,3 @@
+The word "[[Tower]]" can refer to the literal [[Tower]] in each of [[Aeolia]]'s large cities, but it is also the word for a city in [[Aeolia]], because all locations large enough to be considered a city have a massive solar farm water tower.
+
+It can also refer to the ancient [[Tower]]s of [[Pre-Aeolus]] that were located in the same places as most of the modern ones, though they are of completely different design and function.

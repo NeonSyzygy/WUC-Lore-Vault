@@ -1,0 +1,1 @@
+This is something that happens to people who are effected by [[Dark Aura]]ark Aura]] but do not have the mental will to hold onto their autonomy.
