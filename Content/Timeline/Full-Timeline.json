@@ -1,0 +1,55 @@
+{
+  "title": "WUC Full Timeline",
+  "columns": ["Universe", "WUC", "Aeolia", "Doomed Adventurers", "Valen Elicron", "Kuno", "Tane's Sister", "Aster Kenos"],
+  "events": [
+    {
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Events/Pre-History/Creation-of-the-Star-System'>Creation of the Star System</a>",
+      "date": "0",
+      "column": "Universe"
+    },
+    {
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Events/Pre-History/The-Age-of-Primordials'>The Age of Primordials</a>",
+      "column": "Universe",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Events/Pre-History/Creation-of-the-Star-System'>Creation of the Star System</a>"]
+    },
+    {
+      "name": "Pre-Aeolia Nation is Established",
+      "column": "Aeolia",
+      "prior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Events/Pre-History/The-Age-of-Primordials'>The Age of Primordials</a>"]
+    },
+    {
+      "name": "The Anti-Magic Weapon",
+      "column": "Aeolia",
+      "content": "The <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Anti-Magic-Weapon'>Anti-Magic Weapon</a> Is used where <a href='https://day-dream-company.github.io/DDC-Canon/Info/Locations/Cities-and-Towns/Aeolus'>Aeolus</a> will be built.",
+      "linkedPrior": ["Pre-Aeolia Nation is Established"]
+    },
+	{
+      "name": "Aeolus is Built",
+      "column": "Aeolia",
+      "content": "The crater left by the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Anti-Magic-Weapon'>Anti-Magic Weapon</a> reveals the geothermal spring, and the city of <a href='https://day-dream-company.github.io/DDC-Canon/Info/Locations/Cities-and-Towns/Aeolus'>Aeolus</a> is built on it.",
+      "linkedPrior": ["The Anti-Magic Weapon"]
+    },
+	{
+      "name": "Formation of Aeolia's Government",
+      "column": "Aeolia",
+      "content": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Locations/Nations-&-Kindoms/Aeolia'>Aeolia</a> officially implements it's government, and the first <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Aeolia/Folds/Fold'>Folds</a> are formed.",
+      "linkedPrior": ["Aeolus is Built"]
+    },
+	{
+      "name": "The First <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Aeolia/Tower-Relay-System/Tower'>Towers</a> Are Built",
+      "column": "Aeolia",
+      "linkedPrior": ["Formation of Aeolia's Government"]
+    },
+	{
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Proposes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>",
+      "column": "WUC",
+      "linkedPrior": ["The First <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Aeolia/Tower-Relay-System/Tower'>Towers</a> Are Built"]
+    },
+	{
+      "name": "Tane Joins WUC",
+      "column": "WUC",
+	  "content": "WUC Archer unofficially recruits Tane as the first magical member of WUC.",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Proposes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>"]
+    }
+  ]
+}
