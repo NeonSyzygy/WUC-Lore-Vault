@@ -1,0 +1,1 @@
+[[Jove]] is a boy who sometimes operates the elevator in [[Aeolus]]'s [[Tower]].

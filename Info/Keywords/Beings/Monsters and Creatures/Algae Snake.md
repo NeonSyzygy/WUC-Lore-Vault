@@ -1,0 +1,1 @@
+Steal [this](https://www.reddit.com/r/Weird/s/qAoeDlFpX9), its very cool
