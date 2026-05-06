@@ -1,6 +1,6 @@
 {
   "title": "WUC Full Timeline",
-  "columns": ["Universe", "WUC", "Aeolia", "Doomed Adventurers", "Valen Elicron", "Kuno", "Tane's Sister", "Aster Kenos"],
+  "columns": ["Universe", "Doomed Adventurers", "Tane's Sister", "Valen Elicron", "Kuno", "WUC", "Aeolia", "Aster Kenos"],
   "events": [
     {
       "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Events/Pre-History/Creation-of-the-Star-System'>Creation of the Star System</a>",
@@ -38,18 +38,185 @@
 	{
       "name": "The First <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Aeolia/Tower-Relay-System/Tower'>Towers</a> Are Built",
       "column": "Aeolia",
-      "linkedPrior": ["Formation of Aeolia's Government"]
+      "linkedPrior": ["Formation of Aeolia's Government"],
+	  "linkedFollowing": ["WUC Is Officialy Formed"]
     },
 	{
-      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Proposes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>",
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Conceptualizes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>",
       "column": "WUC",
       "linkedPrior": ["The First <a href='https://day-dream-company.github.io/DDC-Canon/Info/Keywords/Aeolia/Tower-Relay-System/Tower'>Towers</a> Are Built"]
     },
 	{
-      "name": "Tane Joins WUC",
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/Tane'>Tane</a> Joins <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>",
       "column": "WUC",
-	  "content": "WUC Archer unofficially recruits Tane as the first magical member of WUC.",
-      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Proposes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>"]
+	  "content": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> unofficially recruits <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/Tane'>Tane</a> as the first magical member of WUC.",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> Conceptualizes the <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>"]
+    },
+	{
+      "name": "<a href='https://day-dream-company.github.io/DDC-Canon/Content/Drafts/Learning-From-The-Past'>Learning From The Past</a>",
+      "column": "WUC",
+	  "content": "<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/Tane'>Tane</a> and <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew'>WUC Archer</a> propose <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a> to the Manifold.",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/Tane'>Tane</a> Joins <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>"]
+    },
+	{
+      "name": "WUC Is Officialy Formed",
+      "column": "Aeolia",
+	  "content": "WUC becomes an officially sanctioned project, with full support from the Manifold.",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Content/Drafts/Learning-From-The-Past'>Learning From The Past</a>"],
+	  "linkedFollowing": ["WUC Archer and Tane Look for WUC Recruits"],
+	  "linkedFollowing": ["WUC Archer and Tane Look for WUC Recruits"]
+    },
+	{
+      "name": "Doomed Adventurers Are Formed",
+      "column": "Doomed Adventurers",
+      "linkedPrior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/Tane'>Tane</a> Joins <a href='https://day-dream-company.github.io/DDC-Canon/Info/Characters/Aeolus/Wake-Up-Crew/WUC'>WUC</a>"]
+    },
+	{
+      "name": "Valen and Rena Become Adventurers",
+      "column": "Doomed Adventurers",
+      "linkedPrior": ["Doomed Adventurers Are Formed"]
+    },
+	{
+      "name": "The Doomed Adventurers Fight the Dragon",
+      "column": "Doomed Adventurers",
+      "linkedPrior": ["Valen and Rena Become Adventurers"]
+    },
+	{
+      "name": "Rena Forges the Crystal Sword",
+      "column": "Doomed Adventurers",
+      "linkedPrior": ["The Doomed Adventurers Fight the Dragon"]
+    },
+	{
+      "name": "Valen Starts to Develop Magic Skills",
+      "column": "Doomed Adventurers",
+      "linkedPrior": ["Rena Forges the Crystal Sword"]
+    },
+	{
+      "name": "Showstopper",
+      "column": "Doomed Adventurers",
+	  "content": "The Doomed Adventurers All Die.",
+      "linkedPrior": ["Valen Starts to Develop Magic Skills"]
+    },
+	{
+      "name": "Tane's Sister Survives",
+      "column": "Tane's Sister",
+	  "content": "Tane's sister continues adventuring alone, assuming everyone is dead.",
+      "linkedPrior": ["Showstopper"]
+    },
+	{
+      "name": "Valen Survives",
+      "column": "Valen Elicron",
+	  "content": "Valen joins Xion's adventuring party, assuming that the others had left him for dead.",
+      "linkedPrior": ["Showstopper"]
+    },
+	{
+      "name": "Rena Survives",
+      "column": "WUC",
+	  "content": "Rena restarts her life in Aeolus under a new name, assuming everyone is dead, and joins WUC.",
+      "linkedPrior": ["Showstopper"],
+	  "linkedFollowing": ["Recruiting Kuno"]
+    },
+	{
+      "name": "Valen Loses the Crystal Sword",
+      "column": "Valen Elicron",
+      "linkedPrior": ["Valen Survives"]
+    },
+	{
+      "name": "Kuno Aquires the Crystal Sword",
+      "column": "Kuno",
+      "prior": ["Valen Loses the Crystal Sword"]
+    },
+	{
+      "name": "Recruiting Kuno",
+      "column": "WUC",
+	  "content": "Rena and Tane go to retreive the Crystal sword. Rena and Kuno duel for possesion of the Crystal Sword. Rena wins, and Kuno is invited to join WUC.",
+      "linkedPrior": ["Kuno Aquires the Crystal Sword"]
+    },
+	{
+      "name": "WUC Archer and Tane Look for WUC Recruits",
+      "column": "WUC",
+	  "content": "WUC Archer and Tane travel across Aeolia looking for latent mages, and collecting data on the magic resurgence."
+    },
+	{
+      "name": "Sebastian Joins WUC",
+      "column": "WUC",
+	  "linkedPrior": ["WUC Archer and Tane Look for WUC Recruits"],
+	  "linkedFollowing": ["Rena Survives"]
+    },
+	{
+      "name": "Tane's Sister's Group Stops in the Small Village",
+      "column": "Tane's Sister",
+	  "linkedPrior": ["Tane's Sister Survives"],
+	  "prior": ["Recruiting Kuno"]
+    },
+	{
+      "name": "Valen Destroys the Small Village",
+      "column": "Valen Elicron",
+	  "content": "Valen, as Weltzer, Attacks the Small Village on the Border Between Aeolia and (Formerly) Sev'ren.",
+	  "linkedPrior": ["Tane's Sister's Group Stops in the Small Village"],
+	  "contemporary": ["The Small Village is Attacked"]
+    },
+	{
+      "name": "Tane's Sister's is Coerced to Work For the Herals of Entropy",
+      "column": "Tane's Sister",
+	  "linkedPrior": ["Valen Destroys the Small Village"]
+    },
+	{
+      "name": "The Small Village is Attacked",
+      "column": "Aeolia",
+	  "content": "A small village on the border between Aeolia and (Formely)Sev'ren is destroyed and turned almost entirely into Dark Aura.",
+	  "linkedPrior": ["WUC Is Officialy Formed"],
+	  "contemporary": ["Valen Destroys the Small Village"]
+    },
+	{
+      "name": "WUC Responds to the Village Attack",
+      "column": "WUC",
+	  "content": "WUC go to the remains of the attack site and obtain a sample of Dark Aura.",
+	  "linkedPrior": ["Recruiting Kuno"],
+	  "prior": ["The Small Village is Attacked"]
+    },
+	{
+      "name": "Artis Joins WUC",
+      "column": "WUC",
+	  "content": "WUC finds Artis, who has a latent Aura, and they recruit him to join WUC.",
+	  "linkedPrior": ["WUC Responds to the Village Attack"]
+    },
+	{
+      "name": "WUC Travels to (Formerly)Sev'reon",
+      "column": "WUC",
+	  "content": "WUC travel via boat to the capital of the country bordering Aeolia, looking for leads about the forces behind the Dark Aura attack.",
+	  "linkedPrior": ["Artis Joins WUC"]
+    },
+	{
+      "name": "Exactly As Planned",
+      "column": "WUC",
+	  "content": "WUC tries to coerce Aster to get them info on the Dark Aura from (Formerly)Sev'reon's palace.",
+	  "linkedPrior": ["WUC Travels to (Formerly)Sev'reon"]
+    },
+	{
+      "name": "Aster Kenos Becomes a Junior Auratech",
+      "column": "Aster Kenos",
+	  "prior": ["<a href='https://day-dream-company.github.io/DDC-Canon/Content/Drafts/Learning-From-The-Past'>Learning From The Past</a>"],
+	  "following": ["WUC Is Officialy Formed"]
+    },
+	{
+      "name": "Aster Kenos Becomes the Senior Engineer for (Formerly)Sev'reon's Dome",
+      "column": "Aster Kenos",
+	  "linkedPrior": ["Aster Kenos Becomes a Junior Auratech"],
+	  "prior": ["WUC Is Officialy Formed"]
+    },
+	{
+      "name": "Aster Kenos and Daz Become Friends",
+      "column": "Aster Kenos",
+	  "linkedPrior": ["Aster Kenos Becomes the Senior Engineer for (Formerly)Sev'reon's Dome"],
+	  "prior": ["Showstopper"]
+    },
+	{
+      "name": "An Offer You Can't Refuse",
+      "column": "Aster Kenos",
+	  "content": "Aster Kenos is \"hired\" by WUC to investigate the monarchy of (Formerly)Sev'ren in Sev'reon.",
+	  "linkedPrior": ["Aster Kenos and Daz Become Friends"],
+	  "contemporary": ["Exactly As Planned"]
     }
   ]
 }
