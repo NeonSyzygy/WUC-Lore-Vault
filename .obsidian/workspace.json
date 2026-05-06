@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Content/Timeline/Full Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Full Timeline"
             }
           }
         ],
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +198,8 @@
   },
   "active": "495e21dba3f83cd9",
   "lastOpenFiles": [
-    "Content/Timeline/Full Timeline.md",
     "index.md",
+    "Content/Timeline/Full Timeline.md",
     "Content/Timeline/Full-Timeline.json",
     "Content/Full-Timeline.json",
     "Content/Timeline/Full-Timeline.canvas",
