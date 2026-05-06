@@ -25,7 +25,7 @@ jobs:
           git config user.email "bot@NeonSyzygy.company"
           git config --global url."https://x-access-token:${{ secrets.WUC_VAULT_ACTIONS }}@github.com/".insteadOf "https://github.com/"
           
-          git submodule update --init --source/content --remote --merge
+          git submodule update --init --remote --merge -- source/content
           git add source/content
           git commit -m "Update submodule to latest commit on main"
           git push origin main
