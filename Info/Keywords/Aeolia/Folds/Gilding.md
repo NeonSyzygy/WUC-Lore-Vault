@@ -1,0 +1,1 @@
+I like the idea of calling Heraldry “Gilding,” as in metal plating.

@@ -1,3 +1,5 @@
+(Also sometimes referred to as a Gild)
+
 This refers to an organization in the governance structure of [[Aeolia]]. It can be thought of as similar to a literal Guild, or a Corporation, or a Union.
 
 More work will need to be done on this concept, including different names for the hierarchy because there can be meta groups made of other groups.
@@ -12,19 +14,21 @@ I might make the term "manifold" refer to the [[Guild Council]], and make the gu
 
 I kind of like the term "Siphon" to represent the [[Guild Council]], but that seems a little on the nose. "Siphon" (or even "Syphon") refers to a tube that brings liquid up against gravity out of it's reservoir without a pump, which evokes a sort of bootstrapping self-correcting effect that I want the government to have. I'm starting to like Siphon more as I think about it. Siphon could refer to the council itself, or it could refer to the one in charge of the council.
 # Representation
-A top level guild is a guild who has a seat at the [[Guild Council]]. It has as many votes as it has total members, which includes all [[Fold]]s under its umbrella. Any guild that is a member of a [[Manifold]] looses its seat on the council and instead its votes are added to the votes of the [[Manifold]]. There can be [[Manifold]]s within [[Manifold]]s, so the structure can get confusing. New [[Fold]]s can be formed at basically any time, though people will not want to be guild-less so this happens infrequently.
+A top level guild is a guild who has a seat at the [[Guild Council]]. It has as many votes as it has total members, which includes all [[Fold]]s under its umbrella. Any guild that is a member of a [[Manifold]] looses its seat on the council and instead its votes are added to the votes of the [[Manifold]]. There can be [[Manifold]]s within [[Manifold]]s, so the structure can get confusing.
+
+New [[Fold]]s can be only be formed at specific times, as well as forming new [[Manifold]] and individuals joining a fold. *Leaving* a fold can be done at any time without restriction, but once you leave you become independent until the next [[Manifold cycle]] where you may register with a new [[Fold]]. This allows people to abandon a guild they no longer believe in at will, but makes it harder for [[Fold|Folds]] to reconfigure on the fly to exploit the voting thresholds.
 
 An [[Aeolia]]n citizen can have a variety of states:
-- Guilded
-- Guilded in defiance
-- Guilded in disgrace
-- Guild-less in discrace
-- Guild-less in defiance
-- Guild-less in apathy
-- Reguilded in defiance
-- Reguilded in discrace
-- Reguilded in apathy
-Anyone who is “in defiance” is protesting their [[Fold]]. If the guild is still in operation then they will be guilded in defiance, and if enough people do this then the [[Fold]] will be dissolved and they will become guild-less in defiance until the join another guild.
+- Gilded
+- Gilded in defiance
+- Gilded in disgrace
+- Gild-less in discrace
+- Gild-less in defiance
+- Gild-less in apathy
+- Regilded in defiance
+- Regilded in discrace
+- Regilded in apathy
+Anyone who is “in defiance” is protesting their [[Fold]]. If the guild is still in operation then they will be gilded in defiance, and if enough people do this then the [[Fold]] will be dissolved and they will become gild-less in defiance until the join another gild.
 Anyone who is “in disgrace” was a member of a previously disbanded guild but who did not protest the guild. When the [[Fold]] called they will be guild-less, and when they join a new [[Fold]] they will retain their “in disgrace status for some period of time. The function of this is to prevent people from doing something wrong and just hopping to a new [[Fold]] like a cop killing someone and moving to a new county to continue being a cop.
 Someone who is guild-less in apathy is someone who has left their [[Fold]] for personal reasons and does not have any issues with it. This can happen when someone wants to switch [[Fold]]s, or when a [[Fold]] is joining a [[Manifold]] and someone doesn’t feel represented by it anymore but does not feel the need to protest. People are also technically guild-less in apathy when they are born, though it is common for children who’s parents are in the same [[Fold]] to be treated as if they are in that [[Fold]] as well. And then, of course, there is the normal state of being Guilded.
 Anyone who is Reguilded is simply a new member of a [[Fold]] where not enough time has passed to remove their previous [[Fold]] from their heraldry. i think this should be technically regulated, but I also think people will chose to keep their old dual heraldry for a variety of reasons. Similar to how a lot of the brown coats in firefly feel like the war never really ended, I think some people might not ever remove their reference to a guild they feel strongly about even though it has been dissolved for years.
