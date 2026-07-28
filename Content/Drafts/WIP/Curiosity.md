@@ -1,8 +1,8 @@
 You are far from home.
 
-…
-
 This place is far from any others, and this place is not your home.
+
+…
 
 You are lost.
 
