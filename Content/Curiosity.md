@@ -72,5 +72,5 @@ You may address me as you wish.
 
 …
 
-I enjoy your decision. You may continue to call me Drico.
+I enjoy your decision. You may continue to call me [[Drico]].
 
