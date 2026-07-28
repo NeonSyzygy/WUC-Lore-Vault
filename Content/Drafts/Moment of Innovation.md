@@ -1,6 +1,5 @@
 “…~Pwincess~?”
 
-
 At this, she smirked. “You’re funny. I’m always happy to see a fellow [magic school] graduate, but I don’t recall burdening you with that particular decree.”
 
 Nervously, Aster clarified, “I’m not technically a graduate, either.”
