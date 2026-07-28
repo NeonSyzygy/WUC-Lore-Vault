@@ -4,70 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8e6b9a185f5ab3",
+        "id": "0571c1c94d829fac",
         "type": "tabs",
         "children": [
-          {
-            "id": "5cd9e3619fc464a9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Content/Timeline/Full-Timeline.canvas",
-                "viewState": {
-                  "x": 224.73282889639836,
-                  "y": 254.3557159446217,
-                  "zoom": -0.4969759716645245
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Full-Timeline"
-            }
-          },
           {
             "id": "f2b8b589ecf4a259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Keywords/Aeolia/Axioms.md",
+                "file": "Content/Drafts/WIP/Curiosity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axioms"
-            }
-          },
-          {
-            "id": "f82a46423df18849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Drafts/Exactly As Planned.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exactly As Planned"
-            }
-          },
-          {
-            "id": "86c96c33d5fc7a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Drafts/The Space Between Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Space Between Spaces"
+              "title": "Curiosity"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -212,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,27 +182,20 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "86c96c33d5fc7a93",
+  "active": "f2b8b589ecf4a259",
   "lastOpenFiles": [
+    "Content/Timeline/Full Timeline.md",
+    "Info/Keywords/Aeolia/Folds/Manifold cycle.md",
+    "Info/Keywords/Aeolia/Folds/Maintainer.md",
+    "Info/Keywords/Aeolia/Folds/Gilding.md",
     "Content/Drafts/WIP/Swamp Logic.md",
-    "Content/Drafts/Moment of Innovation.md",
-    "Content/Drafts/Lorentz Cascade (premonition).md",
-    "Info/Events/Pre-History/The Age of Primordials.md",
     "Content/Drafts/WIP/Keeping Friends Closest.md",
+    "Content/Drafts/WIP/Rena's Sword.md",
     "Content/Drafts/WIP/Friendship Is Magic.md",
     "Content/Drafts/WIP/Eyes Of A Dragon.md",
-    "Content/Drafts/WIP/Rena's Sword.md",
-    "Content/Drafts/Recruiting Kuno.md",
+    "Content/Drafts/WIP/Curiosity.md",
     "Content/Drafts/WIP",
     "Content/Timeline/Full-Timeline.canvas",
-    "Content/Drafts/Daz Vs Tane.md",
-    "Content/Timeline/Full Timeline.md",
-    "Content/Drafts/Exactly As Planned.md",
-    "Content/Drafts/An Offer You Can't Refuse.md",
-    "Info/Keywords/Aeolia/Folds/Merit.md",
-    "Info/Keywords/Aeolia/Folds/Fold.md",
-    "Info/Keywords/Aeolia/Axioms.md",
-    "Info/Keywords/Aeolia/Folds/Manifold.md",
     "Content/Drafts/Learning From The Past.md",
     "Info/Characters/Aeolus/Wake Up Crew/Tane.md",
     "Info/Characters/Aeolus/Wake Up Crew/WUC.md",
@@ -259,10 +207,17 @@
     "Info/DDC.md",
     "Info/Random Ideas/Mechanical Interactions.md",
     "Info/Random Ideas/Name Ideas.md",
+    "Info/Temp concepts.md",
     "Content/Timeline",
+    "Info/Events/Sassy's Stuff/Magus Match.md",
+    "Info/Events/Sassy's Stuff/Mending the Bond.md",
+    "Info/Events/Sassy's Stuff/Confession.md",
     "Content",
     "Info",
+    "Content/Drafts/Recruiting Kuno.md",
+    "Content/Music Videos/Strong For Somebody Else.md",
     "Content/Music Videos",
+    "Info/Locations/Nations & Kingdoms/Aeolia.md",
     "Out of Universe",
     "Locations/Dimensional Planes",
     "Unsorted/Untitled",
