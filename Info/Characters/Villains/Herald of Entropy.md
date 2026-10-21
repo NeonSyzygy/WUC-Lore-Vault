@@ -1,5 +1,6 @@
 I think that [[Weltzer]] will be controlled by [[Chernabog]], and part of Chernabog’s plan might be to collect as many “avatars” as he can as a sort of anti-Phoenix. Weltzer wouod be a powerful vessel for him and if weltzer wouod just give up and give him control that would make his job much simpler, but weltzer resists. He can still be controlled through blackmail, torture, and by threatening hostages, so weltzer remains useful even if he will not let chernabog assume direct control.
 # Motivation & Philosophy
+## What you call medicine…
 "What do we do when someone has an infection, or an autoimmune disease, or something that's little of both like a cancer? We step in, and we *kill it.* We make the body's environment inherently hostile to the invading microbes, we physically cut out the tumors, and if the threat is the body's own defenses then we *actively remove the host's ability to harm itself.* We do not simply ask the diseases to stop or try to educate them and hope they choose to behave better. *We eradicate, dismember, and subjugate them, because we have decided that our usage of the body is the correct usage.*"
 
 "What you call medicine is, in reality, a type of violence. The only difference is that *you do not respect the perspective of your targets,* because you do not think they *have* a perspective. If they did, could you convince yourself that your position is somehow different than theirs? Is humanity not just yet another virus that consumes and destroys it's environment, just to further it's own goals regardless of cost to anyone or anything else? You think magic *belongs* to you? Have you forgotten that everything you are made of is borrowed-*stolen* from the world? Do you not think the universe has the right to take back every particle it unwillingly loaned you? *Do you really think you are capable of stopping it?*"
@@ -7,3 +8,9 @@ I think that [[Weltzer]] will be controlled by [[Chernabog]], and part of Cherna
 "*I **am** that disease,* but this time I have a voice."
 
 ***"I will remove you from your suffering, and it will be a kindness to us both"***
+## You are still a combatant
+The Herald has the kind of view where he would think that something like rules of war are nonsense. They are either a strategy to coerce a foe to be weaker, or they are a fundamental misunderstanding of what war and violence is. They would not hesitate to kill someone who has surrendered, or to target someone like a medic.
+
+They would ask, why are you surrendering when previously you were fighting? What has happened recently that changed your opinion and made you suddenly agree with my side? *Do* you even agree with me, or would you return to fighting if I were to release you back to your team? What are you going to do with that injured soldier, are you going to repair them so that they continue fighting? Are you going to replace them with a fresh soldier?
+
+You are still a combatant. You are simply now fighting in the domain of logistics, trying to dictate the conditions of the next physical engagement so that they are more favorable to you than they otherwise would be. *You are still a combatant, and we are at war.*
